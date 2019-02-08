@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm 3.18.133 Kernel Configuration
+# Linux/arm 3.18.134 Kernel Configuration
 #
 CONFIG_ARM=y
 CONFIG_IOMMU_IO_PGTABLE_ARMV7S=y
